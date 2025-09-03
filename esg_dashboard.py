@@ -16,7 +16,7 @@ def load_data():
 
 df = load_data()
 
-st.set_page_config(page_title="SPX ESG Dashboard", layout="wide")
+st.set_page_config(page_title="Sustainalytics ESG Dashboard", layout="wide")
 st.title("Sustainalytics ESG Dashboard 📊")
 
 # ---------------------------
